@@ -2,7 +2,6 @@ language: node_js
 
 sudo: false
 
-# Travis-CI Caching
 cache:  # 缓存
   apt: true
   directories: 
