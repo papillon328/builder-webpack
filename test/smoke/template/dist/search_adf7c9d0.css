@@ -1,0 +1,16 @@
+@font-face {
+  font-family: FANGZPPT;
+  src: url(img/FANGZPPT_a0e3bb24.TTF) format('truetype');
+  color: rebeccapurple;
+}
+.search-text {
+  font-family: 'FANGZPPT';
+  font-size: 0.26666667rem;
+  color: red;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  border: 0.01333333rem solid;
+}
+

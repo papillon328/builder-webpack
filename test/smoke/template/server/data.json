@@ -1,0 +1,307 @@
+{
+	"error": [],
+	"extra": [],
+	"data": [{
+		"list": [{
+			"id": 7274,
+			"redirect_param": "time:\/\/nativeWebView?url=https:\/\/time.geekbang.org\/learning\/path-detail\/1&canHiddenNavigationBarBackgroundView=1",
+			"name": "Java工程师",
+			"icon": "https:\/\/static001.geekbang.org\/resource\/image\/50\/b6\/50cac4f8a8e9b600636c0890967113b6.jpg",
+			"product_count": 19,
+			"redirect_vars": {
+				"path_id": 1
+			},
+			"redirect_type": "urlscheme",
+			"score": 173381560961,
+			"total_sub_count": 269943
+		}, {
+			"id": 7275,
+			"redirect_param": "time:\/\/nativeWebView?url=https:\/\/time.geekbang.org\/learning\/path-detail\/7&canHiddenNavigationBarBackgroundView=1",
+			"name": "Python工程师",
+			"icon": "https:\/\/static001.geekbang.org\/resource\/image\/e6\/39\/e617d8532447343993eb8ff4f2991139.jpg",
+			"product_count": 17,
+			"redirect_vars": {
+				"path_id": 7
+			},
+			"redirect_type": "urlscheme",
+			"score": 130431888018,
+			"total_sub_count": 287068
+		}, {
+			"id": 7273,
+			"redirect_param": "time:\/\/nativeWebView?url=https:\/\/time.geekbang.org\/learning\/path-detail\/3&canHiddenNavigationBarBackgroundView=1",
+			"name": "计算机基础知识",
+			"icon": "https:\/\/static001.geekbang.org\/resource\/image\/15\/be\/1538be68a5f597ab1baf179a4a724ebe.jpg",
+			"product_count": 10,
+			"redirect_vars": {
+				"path_id": 3
+			},
+			"redirect_type": "urlscheme",
+			"score": 87482214298,
+			"total_sub_count": 267436
+		}, {
+			"id": 7279,
+			"redirect_param": "time:\/\/nativeWebView?url=https:\/\/time.geekbang.org\/learning\/path-detail\/2&canHiddenNavigationBarBackgroundView=1",
+			"name": "前端工程师",
+			"icon": "https:\/\/static001.geekbang.org\/resource\/image\/1c\/fc\/1c7e5b1f8486a7c3346f466286f226fc.jpg",
+			"product_count": 22,
+			"redirect_vars": {
+				"path_id": 2
+			},
+			"redirect_type": "urlscheme",
+			"score": 44532571048,
+			"total_sub_count": 248751
+		}, {
+			"id": 7356,
+			"redirect_param": "time:\/\/nativeWebView?url=https:\/\/time.geekbang.org\/learning\/path-detail\/6&canHiddenNavigationBarBackgroundView=1",
+			"name": "测试工程师",
+			"icon": "https:\/\/static001.geekbang.org\/resource\/image\/44\/d7\/44188b441ae75c7afdb1a3455db18ad7.jpg",
+			"product_count": 16,
+			"redirect_vars": {
+				"path_id": 6
+			},
+			"redirect_type": "urlscheme",
+			"score": 18763177725,
+			"total_sub_count": 191396
+		}],
+		"nav_id": 0,
+		"block_title": "学习路径",
+		"product_type": "b21",
+		"page": {
+			"count": 5,
+			"more": false
+		},
+		"block_name": "lecture_path",
+		"block_type": 21,
+		"block_id": 60
+	}, {
+		"list": [{
+			"title": "计算机专业课",
+			"id": 7269,
+			"redirect_param": "time:\/\/courseChannel?id=9",
+			"score": 302230578929,
+			"redirect_vars": {
+				"lid": 9
+			},
+			"redirect_type": "urlscheme"
+		}, {
+			"title": "后端 & 架构",
+			"id": 7268,
+			"redirect_param": "time:\/\/courseChannel?id=3",
+			"score": 259280905957,
+			"redirect_vars": {
+				"lid": 3
+			},
+			"redirect_type": "urlscheme"
+		}, {
+			"title": "人工智能 & 大数据",
+			"id": 7280,
+			"redirect_param": "time:\/\/courseChannel?id=8",
+			"score": 216331263070,
+			"redirect_vars": {
+				"lid": 8
+			},
+			"redirect_type": "urlscheme"
+		}, {
+			"title": "运维 & 测试",
+			"id": 7277,
+			"redirect_param": "time:\/\/courseChannel?id=6",
+			"score": 173381589302,
+			"redirect_vars": {
+				"lid": 6
+			},
+			"redirect_type": "urlscheme"
+		}, {
+			"title": "前端 & 移动",
+			"id": 7276,
+			"redirect_param": "time:\/\/courseChannel?id=5",
+			"score": 130431916303,
+			"redirect_vars": {
+				"lid": 5
+			},
+			"redirect_type": "urlscheme"
+		}, {
+			"title": "产品 & 运营",
+			"id": 7270,
+			"redirect_param": "time:\/\/courseChannel?id=7",
+			"score": 87482214138,
+			"redirect_vars": {
+				"lid": 7
+			},
+			"redirect_type": "urlscheme"
+		}, {
+			"title": "管理 & 效率",
+			"id": 7278,
+			"redirect_param": "time:\/\/courseChannel?id=4",
+			"score": 44532570433,
+			"redirect_vars": {
+				"lid": 4
+			},
+			"redirect_type": "urlscheme"
+		}, {
+			"title": "职场软技能",
+			"id": 7324,
+			"redirect_param": "time:\/\/courseChannel?id=68",
+			"score": 23057979661,
+			"redirect_vars": {
+				"lid": 68
+			},
+			"redirect_type": "urlscheme"
+		}, {
+			"title": "面试专场",
+			"id": 7325,
+			"redirect_param": "time:\/\/courseChannel?id=69",
+			"score": 5878110483,
+			"redirect_vars": {
+				"lid": 69
+			},
+			"redirect_type": "urlscheme"
+		}],
+		"nav_id": 0,
+		"block_title": "课程方向",
+		"product_type": "b20",
+		"page": {
+			"count": 9,
+			"more": false
+		},
+		"block_name": "cm_lecture_tag",
+		"block_type": 20,
+		"block_id": 58
+	}, {
+		"list": [{
+			"score": 15570857584000,
+			"banner_title": "9.27第一轮播图-跑步",
+			"banner_redirect_type": "product",
+			"id": 9981,
+			"banner_utm_term": "banner3112",
+			"extra": {
+				"column_sku": "100061401",
+				"column_id": 350,
+				"column_type": 1,
+				"product_type": "c1"
+			},
+			"banner_redirect_param": "100061401",
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/0e\/ae\/0eyyf98a36c4c5260d8df78cb680b9ae.jpg"
+		}, {
+			"banner_redirect_param": "286322",
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/21\/1b\/2153b60459yy28ba9d671791771aa31b.jpg",
+			"id": 9972,
+			"banner_utm_term": "banner3107",
+			"score": 15566562616704,
+			"banner_redirect_type": "article",
+			"banner_title": "9.27第一轮播图-分布式专场"
+		}, {
+			"banner_redirect_param": "https:\/\/shop18793264.m.youzan.com\/wscgoods\/detail\/3nlixaevwhgag?dc_ps=2617326890410575877.200001",
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/06\/df\/0646b52055b9b1287553427161ea5edf.jpg",
+			"id": 9973,
+			"banner_utm_term": "banner3108",
+			"score": 15562267649408,
+			"banner_redirect_type": "mall",
+			"banner_title": "9.27第二轮播图-商城活动"
+		}, {
+			"banner_redirect_param": "https:\/\/shop18793264.m.youzan.com\/wscgoods\/detail\/2g2pkaize4gx4?scan=1&activity=none&from=kdt&qr=directgoods_722012971&shopAutoEnter=1",
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/5f\/7c\/5f967d35de9a4606f4a8726604eb9c7c.png",
+			"id": 9975,
+			"banner_utm_term": "banner3110",
+			"score": 15557972682112,
+			"banner_redirect_type": "url",
+			"banner_title": "9.27第四轮播图-企业推广"
+		}, {
+			"banner_redirect_param": "169220",
+			"banner_cover": "https:\/\/static001.geekbang.org\/resource\/image\/df\/48\/df67949686f3ebe7fe180c5ba5b39848.jpg",
+			"id": 9976,
+			"banner_utm_term": "banner3111",
+			"score": 15553677714816,
+			"banner_redirect_type": "article",
+			"banner_title": "9.27第五轮播图-基础专场"
+		}],
+		"nav_id": 0,
+		"block_title": "热门推荐",
+		"product_type": "b1",
+		"page": {
+			"count": 5,
+			"more": false
+		},
+		"block_name": "explore_banner",
+		"block_type": 1,
+		"block_id": 8
+	}, {
+		"list": [{
+			"id": 9914,
+			"redirect_type": "url",
+			"cover_web": "https:\/\/static001.geekbang.org\/resource\/image\/e4\/64\/e4ef34df494d0cfaf638f64509e55764.png",
+			"score": 48845257856,
+			"redirect_param": "https:\/\/b.geekbang.org\/article\/279456\/?utm_source=timeweb&utm_medium=adzone&utm_campaign=qconptry&gk_source=timewebadzone"
+		}],
+		"nav_id": 0,
+		"block_title": "活动推荐",
+		"product_type": "b19",
+		"page": {
+			"count": 2,
+			"more": true
+		},
+		"block_name": "cm_web_lecture_ad001",
+		"block_type": 19,
+		"block_id": 81
+	}, {
+		"list": [{
+			"live_cover": "https:\/\/static001.geekbang.org\/resource\/image\/yy\/ff\/yy4f955996c0acd2a111e3d3155925ff.jpg",
+			"live_guest": "明星教练钱亮，教你如何正确跑步，避免损伤",
+			"live_position": "",
+			"id": 9971,
+			"live_url": "https:\/\/live.geekbang.org\/room\/btree?utm_source=app&utm_medium=geeklive&utm_campaign=promotion&utm_content=live",
+			"live_id": 482,
+			"score": 27370918176,
+			"live_start": 1601208000,
+			"live_title": "跑步，能跑不等于会跑"
+		}],
+		"nav_id": 0,
+		"block_title": "极客Live",
+		"product_type": "b5",
+		"page": {
+			"count": 1,
+			"more": false
+		},
+		"block_name": "hot_live",
+		"block_type": 5,
+		"block_id": 9
+	}, {
+		"list": [{
+			"id": 8909,
+			"redirect_type": "mall",
+			"cover_web": "https:\/\/static001.geekbang.org\/resource\/image\/35\/d5\/35235cf6530a0b2f891ce7accda09cd5.png",
+			"score": 14485778688,
+			"redirect_param": "https:\/\/shop18793264.m.youzan.com\/wscgoods\/detail\/3nlixaevwhgag?dc_ps=2617330047689837574.200001"
+		}],
+		"nav_id": 0,
+		"block_title": "充值福利",
+		"product_type": "b19",
+		"page": {
+			"count": 1,
+			"more": false
+		},
+		"block_name": "cm_web_lecture_ad002",
+		"block_type": 19,
+		"block_id": 82
+	}, {
+		"list": [{
+			"redirect_type": "url",
+			"score": 91795276416,
+			"id": 9959,
+			"redirect_param": "https:\/\/b.geekbang.org\/article\/279456?utm_identify=geektime&utm_source=geektime-web&utm_medium=tonglan&utm_campaign=qconptry&gk_source=geektime-webtonglan",
+			"cover_web": "https:\/\/static001.geekbang.org\/resource\/image\/77\/92\/77c560c86d99901ee4dc0af58ceb3492.png",
+			"cover": "https:\/\/static001.geekbang.org\/resource\/image\/46\/34\/46b8b43594247c06a70eb78185687e34.png",
+			"cover_web_bg": "https:\/\/static001.geekbang.org\/resource\/image\/49\/a3\/4963f0d55fd251d4eb53946cb3e63fa3.png"
+		}],
+		"nav_id": 0,
+		"block_title": "底栏",
+		"product_type": "b19",
+		"page": {
+			"count": 2,
+			"more": true
+		},
+		"block_name": "ad_bottom",
+		"block_type": 19,
+		"block_id": 80
+	}],
+	"code": 0
+}
