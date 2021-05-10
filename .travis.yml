@@ -7,7 +7,8 @@ cache:  # 缓存
   directories: 
     - node_modules
 
-node_js: stable #设置node相应的版本
+node_js: 
+  - 14 #设置node相应的版本
 
 install:
 	- npm install -D #安装构建器依赖
